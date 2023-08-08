@@ -1,16 +1,30 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.blink {
+  animation: blinker 1s linear infinite;
+}
 
-<!--
-**thalesleall/thalesleall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
+</head>
+<body>
 
-Here are some ideas to get you started:
+<p id="blinkText" class="blink">Texto piscante</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<script>
+let colors = ['#f03c15', '#c5f015', '#1589F0'];
+let i = 0;
+setInterval(() => {
+  document.getElementById('blinkText').style.color = colors[i];
+  i = (i + 1) % colors.length;
+}, 1000);
+</script>
+
+</body>
+</html>
