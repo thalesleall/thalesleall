@@ -1,7 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=FFFFFF&height=230&section=header"/>
+
+<div>
 Olá, Meu nome é Thales Leal, sou dev Front/Back-End, estou na minha rota de aprendizado cursando o bacharelado de Engenharia de Software na UNI-FACEF de Franca-SP, Brasil!
 
 Hello, My name is Thales Leal, I'm a Front/Back-End dev on my learning path studying Software Engineering at UNI-FACEF de Franca-SP, Brazil!
-
+</div>
 
 
 <div style="display: inline_block"><br>
