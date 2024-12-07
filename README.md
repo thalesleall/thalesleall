@@ -1,9 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=FFFFFF&height=230&section=header"/>
-
 <div>
-Olá, Meu nome é Thales Leal, sou dev Front/Back-End, estou na minha rota de aprendizado cursando o bacharelado de Engenharia de Software na UNI-FACEF de Franca-SP, Brasil!
+Olá, Meu nome é Thales Leal, sou desenvolvedor Full-stack, e estou na minha rota de aprendizado cursando o bacharelado de Engenharia de Software na UNI-FACEF de Franca-SP, Brasil!
 
-Hello, My name is Thales Leal, I'm a Front/Back-End dev on my learning path studying Software Engineering at UNI-FACEF de Franca-SP, Brazil!
+Hello, My name is Thales Leal, I'm a Full-stack developer on my learning path studying Software Engineering at UNI-FACEF de Franca-SP, Brazil!
 </div>
 
 
@@ -13,15 +11,6 @@ Hello, My name is Thales Leal, I'm a Front/Back-End dev on my learning path stud
   <img align="center" alt="CSS" height="95" width="195" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="95" width="195" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-#
-  
-<a href="https://github.com/thalesleall/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalesleall&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thalesleall&theme=tokyonight&card_width=300"" />
-</a>
 
  ##
  
